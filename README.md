@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oana1205, studied Structural Engineering (Civil) & switching now my career to Data Science Programming
+- 👋 Hi, I’m @oana1205, studied Structural Engineering (Civil) currently processing my career switch to Data Science Programming
 - 👀 I’m interested in Data Science, Statistics, Programming and Machine Learning
 - 🌱 I’m currently learning Python (language and libraries) used in Data Science 
 - 💞️ I’m looking to collaborate on any project I might be helpful on, and which could help me achieve new or better skills
